@@ -19,7 +19,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/discount-web-scraper.git
+git clone https://github.com/volkanculhaci/discount-web-scraper.git
 Install the required dependencies using pip:
 
 pip install requests beautifulsoup4 pymongo python-telegram-bot
@@ -40,8 +40,6 @@ Create a JSON file named credentials.json in the project directory with the foll
 Replace the placeholder values in the credentials.json file with your MongoDB and Telegram credentials.
 
 Run the script:
-
-
 python main.py
 The script will continuously scrape the specified websites for discount deals and send notifications to the configured Telegram chat whenever a new deal is found.
 
