@@ -1,0 +1,22 @@
+{
+	"website": [
+		{
+			"name": "donanimarsivi",
+			"url": "https://forum.donanimarsivi.com/forumlar/Sicakfirsatlar/",
+			"class": "structItem-title",
+			"ur": "https://forum.donanimarsivi.com"
+		},
+		{
+			"name": "donanimhaber",
+			"url": "https://forum.donanimhaber.com/sicak-firsatlar--f193?sayfa=1",
+			"class": "kl-konu",
+			"ur": "https://forum.donanimhaber.com"
+		},
+		{
+			"name": "r10",
+			"url": "https://www.r10.net/sicak-firsatlar",
+			"class": "title",
+			"ur": ""
+		}
+	]
+}
